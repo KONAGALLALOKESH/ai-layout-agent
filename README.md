@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Layout Agent
 
 A chat-based layout transformation tool built using React and Node.js.
@@ -119,4 +119,3 @@ Try these prompts in the chat:
 Lokesh Konagalla
 =======
 # ai-layout-agent
->>>>>>> 97be7538040eb0892144bae8d0cf441163be9616
